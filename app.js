@@ -16,5 +16,5 @@ if (address){
     });
   });
 }else{
-  console.log("Please enter an address");
+  console.log("You Should Enter An Address To Get Weather Data");
 }
